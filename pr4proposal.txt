@@ -1,0 +1,31 @@
+Hannah Hellerstein
+Login: hanheller
+
+Project title: Magic isn't Free
+
+Idea: I'll be using the 'Adventure' base to construct this game. I'll be taking heavy inspiration from the show
+"Puella Magi Madoka Magica," in that you are a person with magical powers sent out to fight "Witches."
+You will be entering complex "labrynths" to fight powerful Witches and their familiars, and uncover a plot along the way. 
+
+I have no plans for working with a partner for right this moment, but if someone would be well suited for this project, I would love to work with them!
+
+
+40 POINTS:
+- Magic (4 points. Mana runs out, use greif seeds to heal. You have your basic attack, light attacks, dark attacks (witch attacks?))
+- Characters (4 points. Kyuubey, 2 allies to talk to.)
+- Levelling up (4 points. Kill more underlings, level up, melee and magic get stronger.)
+- Helper (Kyuubey. 4 points.)
+- Player attributes (3 points. Have Health, Mana, Strength, MagicalStrength, Grief...)
+- More monsters (3 points. 3 types of underlings, 1 type of boss.)
+- Victory condition (3 points. Beat all 3 witches.)
+- Healing items (2 points, Grief Seeds for Mana (add Greif) and Favorite_food_insert for Health)
+ 
+- Special rooms (Break rooms, Boss rooms (no running), Healing rooms, Nightmare Rooms (get plot item, but have to fight a miniboss for it))
+- Modifying the world (4 points. If you read items/greif stat gets too high, different/more enemies show up in the world? Stat changes? Need to use items found within the laberynth to set up distractions for the witch)
+
+Other possible things:
+- Multiple endings (?? points)
+- Multiple labrynths, "safe zone" to talk with other characters (?? points)
+
+
+
